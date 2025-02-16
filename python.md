@@ -1,12 +1,12 @@
 # Python Courses  
 ### By Dr. Fred Baptiste  
-1. [Python 3 Fundamentals](https://www.udemy.com/course/python3-fundamentals)  
+1. *Python Fundamentals* - [Python 3 Fundamentals](https://www.udemy.com/course/python3-fundamentals)  
 2. **Python 3 Deep Dive Series (All 4 Parts)**  
    - [Part 1](https://www.udemy.com/course/python-3-deep-dive-part-1)  
    - [Part 2](https://www.udemy.com/course/python-3-deep-dive-part-2)  
    - [Part 3](https://www.udemy.com/course/python-3-deep-dive-part-3)  
    - [Part 4](https://www.udemy.com/course/python-3-deep-dive-part-4)  
-3. [Pydantic - V2 Essentials](https://www.udemy.com/course/pydantic/)  
+3. *Pydantic V2* - [Pydantic - V2 Essentials](https://www.udemy.com/course/pydantic/)  
 
 ### Other Python Courses  
 4. [Learn to Code with Python](https://www.udemy.com/course/learn-to-code-with-python) – *By Boris Paskhaver*  
