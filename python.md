@@ -15,4 +15,9 @@
 # DSA with python
 1. Complete Python With DSA Bootcamp + LEETCODE Exercises (https://www.udemy.com/course/complete-python-dsa-bootcamp/) -- By Krish Naik Academy
 2. Code and Debug Youtube Channel (https://www.youtube.com/@codeanddebug)
+
+# Data Science
+1. DSMP 1.0 and DSMP 2.0 Campusx
+  - https://www.youtube.com/@campusx-official
+  - https://learnwith.campusx.in/
    
