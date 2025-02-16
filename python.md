@@ -6,10 +6,11 @@
    - [Part 2](https://www.udemy.com/course/python-3-deep-dive-part-2)  
    - [Part 3](https://www.udemy.com/course/python-3-deep-dive-part-3)  
    - [Part 4](https://www.udemy.com/course/python-3-deep-dive-part-4)  
+3. [Pydantic - V2 Essentials](https://www.udemy.com/course/pydantic/)  
 
 ### Other Python Courses  
-3. [Learn to Code with Python](https://www.udemy.com/course/learn-to-code-with-python) – *By Boris Paskhaver*  
-4. [The Modern Python 3 Bootcamp](https://www.udemy.com/course/the-modern-python3-bootcamp/) – *By Colt Steele*  
+4. [Learn to Code with Python](https://www.udemy.com/course/learn-to-code-with-python) – *By Boris Paskhaver*  
+5. [The Modern Python 3 Bootcamp](https://www.udemy.com/course/the-modern-python3-bootcamp/) – *By Colt Steele*  
 
 ---
 
