@@ -17,6 +17,9 @@
 1. [2025 Python Data Analysis & Visualization Masterclass](https://www.udemy.com/course/python-data-analysis-visualization) – *By Colt Steele*  
 2. [Data Analysis with Pandas and Python](https://www.udemy.com/course/data-analysis-with-pandas) – *By Boris Paskhaver*  
 
+### Data Visualization  
+3. [Interactive Python Dashboards with Plotly and Dash](https://www.udemy.com/course/interactive-python-dashboards-with-plotly-and-dash/) – *By Jose Portilla*  
+
 ---
 
 # Data Structures & Algorithms (DSA) with Python  
