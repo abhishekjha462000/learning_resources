@@ -33,3 +33,26 @@
 1. **DSMP 1.0 and DSMP 2.0 by CampusX**  
    - [CampusX YouTube Channel](https://www.youtube.com/@campusx-official)  
    - [CampusX Learning Platform](https://learnwith.campusx.in/)  
+
+2. [Complete Machine Learning & NLP Bootcamp + MLOps Deployment](https://www.udemy.com/course/complete-machine-learning-nlp-bootcamp-mlops-deployment/)  
+
+---
+
+# Big Data Engineering  
+1. [Big Data Engineering Bootcamp with GCP and Azure Cloud](https://www.udemy.com/course/big-data-engineering-bootcamp-with-gcp-and-azure-cloud/)  
+
+---
+
+# Data Analytics  
+1. [Complete Data Analyst Bootcamp: From Basics to Advanced](https://www.udemy.com/course/complete-data-analyst-bootcamp-from-basics-to-advanced/)  
+
+---
+
+# Generative AI  
+1. [Complete Generative AI Course with LangChain and Hugging Face](https://www.udemy.com/course/complete-generative-ai-course-with-langchain-and-huggingface/)  
+2. [Building Generative AI Applications: End-to-End Projects with Gemini Pro](https://www.udemy.com/course/building-gen-ai-app-end-to-end-projects-with-gemini-pro/)  
+
+---
+
+# MLOps  
+1. [Complete MLOps Bootcamp with 10 End-to-End ML Projects](https://www.udemy.com/course/complete-mlops-bootcamp-with-10-end-to-end-ml-projects/)  
